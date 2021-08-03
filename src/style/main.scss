@@ -1,0 +1,18 @@
+@import 'src/style/abstracts/mixins';
+@import 'src/style/abstracts/variables';
+@import 'src/style/abstracts/helpers';
+
+@import 'src/style/base/base';
+@import 'src/style/base/typography';
+
+@import 'src/style/components/buttons';
+
+@import 'src/style/layout/footer';
+@import 'src/style/layout/sections';
+
+@import 'src/style/sections/about';
+@import 'src/style/sections/contact';
+@import 'src/style/sections/hero';
+@import 'src/style/sections/projects';
+
+// @import 'src/style/vendor/css/font-awesome.min.css';
